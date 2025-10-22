@@ -1,2 +1,5 @@
 # exercices_edition
-Exercices
+
+
+
+[Victor Hugo](https://maxmup.github.io/exercices_edition/)
